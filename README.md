@@ -3,8 +3,6 @@
 A real-time FM radio receiver built using a Raspberry Pi and an RTL-SDR USB dongle.  
 This project lets you listen to FM radio in real time and also extracts RDS (like station names or song info) using C++ and Python.
 
----
-
 ## 🚀 What This Project Does
 
 - 🎧 Plays live FM radio audio through your speakers
@@ -13,7 +11,6 @@ This project lets you listen to FM radio in real time and also extracts RDS (lik
 - ⚙️ Runs in real time using multithreaded C++ and Python code
 - 💡 Built for Raspberry Pi using affordable RTL-SDR hardware
 
----
 
 ## 🧰 Tech Stack
 
@@ -25,7 +22,6 @@ This project lets you listen to FM radio in real time and also extracts RDS (lik
 | Runtime        | Multithreading, Real-time buffers             |
 | Build Tools    | CMake, g++, Git, Git LFS                      |
 
----
 
 ## 🧠 How It Works!
 
@@ -35,5 +31,4 @@ This project lets you listen to FM radio in real time and also extracts RDS (lik
 4. **RDS decoder** pulls out text info like the station ID  
 5. Everything is threaded for smooth, real-time performance 🎯
 
----
 
