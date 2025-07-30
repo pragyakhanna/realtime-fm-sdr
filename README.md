@@ -7,7 +7,7 @@ This project lets you listen to FM radio in real time and also extracts RDS (lik
 
 - 🎧 Plays live FM radio audio through your speakers
 - 🧾 Extracts RDS data (station names, song titles, etc.)
-- 🧠 Uses custom DSP (Digital Signal Processing) logic — no bloated libraries
+- 🧠 Uses custom DSP (Digital Signal Processing) logic 
 - ⚙️ Runs in real time using multithreaded C++ and Python code
 - 💡 Built for Raspberry Pi using affordable RTL-SDR hardware
 
